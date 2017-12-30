@@ -20,7 +20,7 @@ export LESS_TERMCAP_us=$(printf '\e[04;36m')
 # User specific aliases and functions
 
 # Path to the bash it configuration
-export BASH_IT="/root/git/bash-it"
+export BASH_IT="/home/greg/git/bash-it"
 
 # Lock and Load a custom theme file
 # location /.bash_it/themes/
